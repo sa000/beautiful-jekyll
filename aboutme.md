@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About 
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Sakib Alam. I have a B.S in Applied Math, and a M.S in Computational & Applied Math but a basketball lover as well. This blog is just to explore some interesting problems that exist in the basketball space but also explore the math behind the scenes. Ultimately, these posts are just a fun mental excercise to explore basketball analytics and hopefully convey complex ideas in a technical but also clear way. 
